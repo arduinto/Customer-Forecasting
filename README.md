@@ -53,4 +53,4 @@ The company is tryng to decide whether to focus their efforts on their mobile ap
 4. **Monitor and Adapt Website Strategy:**
    - While website usage has a lower impact, it should not be neglected. Ensure the website is user-friendly and complements the app experience. Use the website to drive users to the app where possible, as it is the primary driver of spending.
 
-By understanding these insights and implementing the recommendations, stakeholders can effectively leverage the data to drive customer spending and improve overall business performance.
+By understanding these insights and implementing the recommendations, we can effectively leverage the data to drive customer spending and improve overall business performance.
