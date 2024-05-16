@@ -29,7 +29,7 @@ The company is tryng to decide whether to focus their efforts on their mobile ap
 * __Test Score: 98.27%__
 
 | __Independent Feature__     |  __Coefficient__ |
-| ----------------------- | ------------ |
+| ----------------------- | :-----------: |
 | Avg_Session_Length      | 25.45        |
 | App_Usage               | 38.79        |
 | Website_Usage           | 0.22         |
