@@ -28,12 +28,12 @@ The company is tryng to decide whether to focus their efforts on their mobile ap
 * __Train Score: 98.46%__
 * __Test Score: 98.27%__
 
-Independent Feature       Coefficient
-=====================================
-Avg_Session_Length       25.45
-App_Usage                38.79
-Website_Usage            0.22
-Membership_Length        61.49
+| __Independent Feature__     |  __Coefficient__ |
+| ----------------------- | ------------ |
+| Avg_Session_Length      | 25.45        |
+| App_Usage               | 38.79        |
+| Website_Usage           | 0.22         |
+| Membership_Length       | 61.49        |
 
 
 ### **Insights based on Output**
